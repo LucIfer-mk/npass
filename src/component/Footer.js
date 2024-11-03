@@ -6,7 +6,7 @@ export default function Footer() {
     <div>
        <footer className="footer">
       <div className="social-icons">
-        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/profile.php?id=61567877829313" target="_blank" rel="noopener noreferrer">
           <FaFacebook />
         </a>
         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
