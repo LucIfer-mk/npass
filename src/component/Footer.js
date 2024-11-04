@@ -19,10 +19,11 @@ export default function Footer() {
           <FaLinkedin />
         </a>
       </div>
-      <div className="links-footer">
+      {/* <div className="links-footer">
         <a href="#" target="_blank" rel="noopener noreferrer">Contact</a><br/>
         <a href="#" target="_blank" rel="noopener noreferrer">Carrier</a>
-      </div>
+        add to footer
+      </div> */}
       <div className="copyright">
         &copy; {new Date().getFullYear()} Npass. All rights reserved.
       </div>
