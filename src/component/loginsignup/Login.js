@@ -3,9 +3,11 @@ import './login.css'
 export default function login() {
   return (
     <div>
-      <div className='Login-Page'>
-            <input type='text' placeholder='User Name' className='login-text'/><br/>
-            <input type='password' placeholder='Password' className='login-text'/>
+        <div className='login-form'>
+          <div className='login-box'>
+            <input type='text' placeholder='Enter your Name'/>
+            <input type='password' placeholder='Enter your Password'/>
+          </div>
         </div>
     </div>
   )
